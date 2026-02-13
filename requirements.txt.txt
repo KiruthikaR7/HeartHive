@@ -1,0 +1,7 @@
+transformers
+torch
+huggingface-hub
+langchain
+pypdf
+faiss-cpu
+sentence-transformers
